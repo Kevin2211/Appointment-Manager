@@ -3,9 +3,7 @@
 Global Consulting Company
 Appointment and Customer Management Application
 
-Author:
-Graham Nelson
-gnels16@wgu.edu
+
 
 Version Info:
 1.2 as of 10/28/2020
